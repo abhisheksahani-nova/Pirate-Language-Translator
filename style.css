@@ -23,3 +23,66 @@ h2{
 button{
   display: block;
 }
+
+
+/* header */
+
+header{
+  height: 85px;
+  text-align: center;
+  padding-top: 20px;
+  background-color:
+}
+
+/* main */
+
+section{
+  height: 390px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.textInput{
+  width: 80%;
+  height: 33%;
+  margin: 43px 0 5px 47px;
+}
+
+::placeholder{
+  font-size: 18px;
+}
+
+.btn{
+  width: 27%;
+  height: 15%;
+  margin-left: 105px;
+  border: none;
+  font-size: 18px;
+}
+
+.text{
+  padding-right: 387px;
+  margin-top: 17px;
+}
+
+.outDiv{
+  width: 80%;
+  height: 19%;
+  border: 1px solid black;
+  margin-left: 107px;
+  margin-bottom: 20px;
+  overflow: scroll;
+  padding: 5px;
+  text-align: left;
+
+}
+
+
+/* footer */
+
+footer{
+height: 150px;
+text-align: center;
+padding-top: 20px;
+}
