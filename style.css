@@ -51,6 +51,7 @@ header{
   height: 30% ;
   margin: 40px auto 10px;
   padding: 5px;
+  font-size: 15px;
 }
 
 ::placeholder{
@@ -65,7 +66,10 @@ header{
   margin-bottom: 10px;
   background-color: #449FAF;
   color: white;
+}
 
+.btn:hover{
+  background-color: black;
 }
 
 .text{
@@ -89,4 +93,8 @@ height: 120px;
 text-align: center;
 background-color: #449FAF;
 padding-top: 15px;
+}
+
+.about{
+  margin-bottom: 15px;
 }
